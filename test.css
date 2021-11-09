@@ -7,3 +7,19 @@ h1 {
 p {
   color: red;
 }
+
+div.head1 {
+  padding: 20px;
+}
+
+@media screen and (min-width: 601px) {
+  div.head1 {
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.head1 {
+    font-size: 30px;
+  }
+}
