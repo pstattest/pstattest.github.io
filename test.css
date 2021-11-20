@@ -1,8 +1,5 @@
 body {
   font-family: 'Roboto', sans-serif;
-  background: url('Images/Placeholder.png') center / auto 750px;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
 }
 div.head1 {
   padding: 20px;
