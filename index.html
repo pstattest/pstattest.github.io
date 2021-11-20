@@ -5,11 +5,24 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
   <link rel ="stylesheet" href="test.css">
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
   <title>Test Site</title>
 </head>
 <body>
 
-<div class = "head1">This is a heading</div>
+  <!--Navigation bar-->
+  <div id="nav-placeholder">
+
+  </div>
+
+  <script>
+  $(function(){
+    $("#nav-placeholder").load("navbar.html");
+  });
+  </script>
+  <!--end of Navigation bar-->
+
+<h1>This is a heading</h1>
 <p>This is a paragraph.</p>
 
 </body>
