@@ -27,6 +27,7 @@ div.head1 {
 .topnav {
   overflow: hidden;
   background-color: #003660;
+  font-weight: bold;
 }
 
 .topnav a {
