@@ -26,7 +26,7 @@ div.head1 {
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #003660;
 }
 
 .topnav a {
@@ -40,20 +40,18 @@ div.head1 {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  color: #FEBC11;
 }
 
 .topnav a.active {
-  background-color: #04AA6D;
-  color: white;
+  color: #FEBC11;
 }
 
 .topnav .icon {
   display: none;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -61,7 +59,7 @@ div.head1 {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
