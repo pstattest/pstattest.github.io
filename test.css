@@ -68,7 +68,8 @@ div.head1 {
 }
 
 div.intro_text {
-  max-width: 50vw;
+  max-width: 80vw;
   margin-left: 3vw;
-font-size: 1.5em;
+  font-size: 1.5em;
+  line-height: 1.5em
 }
