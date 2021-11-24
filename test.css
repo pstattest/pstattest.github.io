@@ -76,3 +76,7 @@ div.intro_text {
 div.bg_banner {
   max-width: 100vw;
 }
+
+.container { position:relative; }
+.imgA1 { position:absolute; top: 0px; left: 0px; z-index: 1; }
+.imgB1 { position:absolute; top: 70px; left: 100px; z-index: 3; }
