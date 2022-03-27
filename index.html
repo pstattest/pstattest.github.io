@@ -22,6 +22,9 @@
     border: 1px solid black;
     border-radius: 8px;
   }
+  .noborder {
+  	border: 0px
+  }
 </style>
 
 <html>
@@ -63,7 +66,7 @@ Unauthorized reproduction and/or distribution of these materials is prohibited.
 
 <br>
 
-<table border = "1">
+<table>
 	<tr>
     	<td class = "week" style = "text-align:center; background-color: #dfe0e6">Week</td>
         <td class = "topic" style = "text-align:center; background-color: #dfe0e6">Topics</td>
@@ -71,21 +74,42 @@ Unauthorized reproduction and/or distribution of these materials is prohibited.
         <td class = "wksheets" style = "text-align:center; background-color: #dfe0e6">Worksheets</td>
     </tr>
 
+    <!-- Week 1 -->
     <tr>
-    	<td class = "week" rowspan = "3">1</td>
-        <td class = "topic">Axioms</td>
-        <td class = "notes">Mon. 6/28 (notes)</td>
-        <td class = "wksheets">Worksheet 1</td>
-    </tr>
-    <tr>
-        <td class = "topic">Cond.Prob/Ind.</td>
-        <td class = "notes">Wed. 6/30 (notes)</td>
-        <td class = "wksheets">Worksheet 2</td>
-    </tr>
-    <tr>
-        <td class = "topic"></td>
-        <td class = "notes"></td>
-        <td class = "wksheets">Quiz 1</td>
+    	<td class = "week">1</td>
+        <td class = "topic">
+        	<table>
+            	<tr>
+                	<td class = "noborder">Axioms</td>
+                </tr>
+                <tr>
+                	<td class = "noborder">Cond. Prob / Ind.</td>
+                </tr>
+            </table>
+        </td>
+        <td class = "notes">
+        	<table>
+            	<tr>
+                	<td class = "noborder">Mon. 6/28 (notes)</td>
+                </tr>
+                <tr>
+                	<td class = "noborder">Wed. 6/30 (notes)</td>
+                </tr>
+            </table>
+        </td>
+        <td class = "wksheets">
+        	<table>
+            	<tr>
+                	<td class = "noborder">Worksheet 1</td>
+                </tr>
+                <tr>
+                	<td class = "noborder">Worksheet 2</td>
+                </tr>
+                <tr>
+                	<td class = "noborder">Quiz 1</td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 
