@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<link rel="icon" href="Images/flavicon.png">
+<title>Department of Statistics and Applied Probability</title>
+
+<style>
+body {
+  background-image: url('Images/bg_night.png');
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
+  background-size: 100vw auto;
+}
+</style>
+
+
+
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+  <link rel ="stylesheet" href="test.css">
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+  <!--Navigation bar-->
+  <div id="nav-placeholder">
+
+  </div>
+
+  <script>
+  $(function(){
+    $("#nav-placeholder").load("navbar.html");
+  });
+  </script>
+  <!--end of Navigation bar-->
+
+<br><br>
+
+<h1>PSTAT Graduate Committee</h1>
+
+<div class = "intro_text">
+  Our department aims to be a diverse community engaged in areas of education
+   and research in Statistical Theory and Methods, Data Science,
+   Actuarial Science, Financial Mathematics, and Applied Probability;
+   our research collaborations represent a wide range of interdisciplinary
+   fields including environmental science, computer science, and biomedical
+   science. We are home to the UCSB
+   <a href = "https://cfmar.pstat.ucsb.edu/">Center for Financial Mathematics and
+   Actuarial Research</a>, an interdisciplinary research center providing
+   leadership in quantitative finance. We also provide consulting services
+   through our Data Science Consulting Laboratory:
+   <a href = "https://datascience.ucsb.edu/consulting">DataLab</a>
+</div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+</body>
+</html>
