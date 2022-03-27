@@ -22,15 +22,15 @@
 <body>
 
   <!--Navigation bar-->
-  <div class="topnav" id="myTopnav">
-    <a href="index.html">Home</a>
-    <a href="staff.html" class = "active">Course Staff</a>
-    <a href="#contact">Contact</a>
-    <a href="#about">About</a>
-    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-      <i class="fa fa-bars"></i>
-    </a>
+  <div id="nav-placeholder">
+
   </div>
+
+  <script>
+  $(function(){
+    $("#nav-placeholder").load("navbar.html");
+  });
+  </script>
   <!--end of Navigation bar-->
 
 <br><br>
@@ -46,16 +46,6 @@ function myFunction() {
     x.className = "topnav";
   }
 }
-</script>
-
-<script type="text/javascript">
-    $(document).ready(function () {
-        var url = window.location;
-        $('ul.nav a[href="'+ url +'"]').parent().addClass('active');
-        $('ul.nav a').filter(function() {
-             return this.href == url;
-        }).parent().addClass('active');
-    });
 </script>
 
 </body>
