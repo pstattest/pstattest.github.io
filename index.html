@@ -25,6 +25,10 @@
   .noborder {
   	border: 0px
   }
+  @media all and (max-width:768px) {
+        .calculator tr {    display: table;  width:100%;    }
+        .calculator td {    display: table-row; }
+    }
 </style>
 
 <html>
@@ -53,7 +57,7 @@
 
 <br><br>
 
-<table>
+<table class = "calculator">
   <tr>
     <td class = "noborder">
       <img src="Images/logo.png" alt="PSTAT 120A Logo" width="250cm">
