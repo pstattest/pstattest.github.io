@@ -42,7 +42,7 @@ div.head1 {
   color: #FEBC11;
 }
 
-.topnav a.active {
+.topnav a:active {
   background-color: #f7dd68;
   color: #FEBC11;
 }
