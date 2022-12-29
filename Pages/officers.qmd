@@ -44,7 +44,6 @@ title: "Officers"
   <td>
     <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Caroline Yovanovich (X/Y)</b></p>
     <p style = "font-size: 20px; margin-left: 15px">Sixth Year PhD Student</p>
-    <p style = "margin-left: 15px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   </td>
 </tr>
 </table>
@@ -66,7 +65,6 @@ title: "Officers"
   <td>
     <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Karina Aponte (X/Y)</b></p>
     <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
-    <p style = "margin-left: 15px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   </td>
 </tr>
 </table>
@@ -88,7 +86,6 @@ title: "Officers"
   <td>
     <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Erika McPhillips (X/Y)</b></p>
     <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
-    <p style = "margin-left: 15px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   </td>
 </tr>
 </table>
@@ -110,7 +107,6 @@ title: "Officers"
   <td>
     <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Blythe King (X/Y)</b></p>
     <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
-    <p style = "margin-left: 15px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   </td>
 </tr>
 </table>
