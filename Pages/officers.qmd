@@ -21,7 +21,6 @@ title: "Officers"
   <td>
     <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Ethan P. Marzban (He/Him)</b></p>
     <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
-    <p style = "margin-left: 15px">Hello! My name is Ethan, and I am a third-year PhD student. In my free time, I enjoy playing the piano, catching up on the latest memes, and talking about all-things cats. Feel free to drop me a line if you'd like to connect!</p>
   </td>
 </tr>
 </table>
@@ -42,7 +41,7 @@ title: "Officers"
   </td>
 
   <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Caroline Yovanovich (X/Y)</b></p>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Caroline Yovanovich </b></p>
     <p style = "font-size: 20px; margin-left: 15px">Sixth Year PhD Student</p>
   </td>
 </tr>
@@ -63,7 +62,7 @@ title: "Officers"
   </td>
 
   <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Karina Aponte (X/Y)</b></p>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Karina Aponte </b></p>
     <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
   </td>
 </tr>
@@ -84,7 +83,7 @@ title: "Officers"
   </td>
 
   <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Erika McPhillips (X/Y)</b></p>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Erika McPhillips </b></p>
     <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
   </td>
 </tr>
@@ -105,7 +104,7 @@ title: "Officers"
   </td>
 
   <td>
-    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Blythe King (X/Y)</b></p>
+    <p style = "font-size: 28px; margin-bottom: -10px; margin-left: 15px"><b>Blythe King </b></p>
     <p style = "font-size: 20px; margin-left: 15px">Third Year PhD Student</p>
   </td>
 </tr>
