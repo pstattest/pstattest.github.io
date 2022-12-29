@@ -4,7 +4,7 @@ title: "On and Around Campus"
 
 ## The Campus
 
-The UCSB campus is situated right along the coastline, with several buildings (including our very own South Hall) featuring views of the coastline. Campus also houses a Lagoon, which is home to a number of wildlife species. Our department (the Department of Statistics and Applied Probability) is located on the fifth floor of <b>South Hall</b>, which houses many other departments including Mathematics, Economics, Linguistics, and a few others.
+The UCSB campus is situated right along the coastline, with several buildings (including our very own South Hall) featuring views of the water. The campus also houses a Lagoon, which is home to a number of wildlife species. Our department (the Department of Statistics and Applied Probability) is located on the fifth floor of <b>South Hall</b>, which houses many other departments including Mathematics, Economics, Linguistics, and a few others.
 
 \
 
@@ -15,14 +15,10 @@ The PSTAT department has offices split across several buildings:
 
   
 
-  - **Building 434:** Most first-year graduate students have offices located in Building 434,
-    located directly adjacent to South Hall. Building 434 also currently houses the on-campus COVID testing
-    facilities.
+  - **Building 434:** Most first- and second-year graduate students have offices located in Building 434, located directly adjacent to South Hall.
 
 
-  - **The Old Gymnasium (a.k.a. "The Barn"):** Several visiting faculty have offices in
-    the Old Gym, which is located diagonally adjacent to South Hall. The Disabled Students Program (DSP)
-    also has its main office in the Old Gym.
+  - **The Old Gymnasium (a.k.a. "The Barn"):** Several visiting faculty have offices in the Old Gym, which is located diagonally adjacent to South Hall. The Disabled Students Program (DSP) also has an office in the Old Gym.
 
 
 
@@ -30,18 +26,14 @@ The PSTAT department has offices split across several buildings:
 
 ## The Surroundings
 
-The nearest "city" to campus is Isla Vista (commonly referred to as "IV"), though it is perhaps
-better labelled a "township" than a "city". Campus actually shares a border with IV, making the township
-very easy to access from campus.
+The nearest "city" to campus is Isla Vista (commonly referred to as "IV"), though it is perhaps better labelled a "township" than a "city". Campus actually shares a border with IV, making the township very easy to access from campus.
 
 \
 
 ## Getting To and From UCSB
 
 The nearest airport to campus is the Santa Barbara Airport (SBA), located just a 5-minute drive and a
-17-minute bus ride from campus (the line 11 connects the North Hall Busloop and SBA). Though SBA
-is quite convenient for many domestic flights, be warned that it is a smaller airport and is not well-suited
-for long-distance travel; there are relatively few flights directly connecting SBA to non-west-coast airports, and there are zero international flights routing through SBA. The nearest larger airport is LAX (Los Angeles International Airport), located around 2 hours away by car (there also exists a shuttle between UCSB and LAX). \
+17-minute bus ride from campus (the line 11 connects the North Hall Busloop and SBA). Though SBA is quite convenient for many domestic flights, be warned that it is a smaller airport and is not well-suited for long-distance travel; there are relatively few flights directly connecting SBA to non-west-coast airports, and there are zero international flights routing through SBA. The nearest larger airport is LAX (Los Angeles International Airport), located around 2 hours away by car (there also exists a shuttle between UCSB and LAX). \
 
 The main highway is Highway 101: it originates in San Francisco and runs through Santa Maria, Goleta, Santa Barbara, Carpinteria, Ventura, Oxnard, Camarillo, and terminates in Los Angeles.
 
@@ -94,13 +86,15 @@ There are a few more options off-Campus, in the city of Isla Vista. Some highlig
 
     <br>
 
-  <li><b><u>Woodstocks:</u></b> Woodstocks Pizza is well-known among UCSB students. Though quite pricey, their pizzas are quite good, featuring thick crusts and copious toppings.
-   Woodstocks also sports a modest array of beers, making it a popular haunt among graduate students. On Thursday Nights they also host a Trivia Night at 9pm.</li>
+  <li><b><u>Woodstocks:</u></b> Woodstocks Pizza is well-known among UCSB students. Though quite pricey, their pizzas are quite good, featuring thick crusts and copious toppings. Woodstocks also sports a hefty array of beers, making it a popular haunt among graduate students. On Thursday Nights they also host a Trivia Night at 9pm.</li>
 
    <br>
+   
+   <li><b><u>IV Pizza and Pub:</u></b> formerly a location of <i>Pizza my Heart</i>, the newly-opened IV Pizza and Pub serves up large New-York style slices of pizzas at a decently affordable price (at least, for IV). Management claims that beers and wines planned to be offered soon...
+   
+   <br>
 
-  <li><b><u>Freebirds:</u></b> Freebirds is fairly typical when it comes to Chipotle-style mexican restaurants (in the sense that food is made right in front of you), though
-  Freebirds has the added benefit of being open fairly late (for IV) on most nights.</li>
+  <li><b><u>Freebirds:</u></b> Freebirds is fairly typical when it comes to Chipotle-style mexican restaurants (in the sense that food is made right in front of you), though Freebirds has the added benefit of being open fairly late (for IV) on most nights.</li>
 
   <br>
 
