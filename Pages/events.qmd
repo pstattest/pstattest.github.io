@@ -6,29 +6,26 @@ title: "Events"
 
 \
 
-## Current and Upcoming Events (as of Fall Quarter 2022)
+## Current and Upcoming Events (as of Winter Quarter 2023)
 
-<!-- <div class="row"> -->
-<!--   <div class="column"> -->
-<!--     <img src = "../Images/Event_Flyers/Fall22_BBQ.png" style = "width:100%"> -->
-<!--   </div> -->
-<!--   <div class="column"> -->
-<!--     <img src = "../Images/Event_Flyers/Fall22_BBQ.png" style = "width:100%"> -->
-<!--   </div> -->
-<!-- </div> -->
-
-<table>
-<tr>
-  <td><img src = "../Images/Event_Flyers/Fall22_BBQ.png" width = "350"></td>
-  <td><img src = "../Images/Event_Flyers/f22_tea_updated.png" width = "350"></td>
-</tr>
-</table>
-  
+_**Stay Tuned for more updates soon!**_
 
 
 \
 
 ## Archive of Events:
+
+::: {.callout-note appearance="default" collapse="true"}
+
+## Archive: Fall 2022
+
+
+- <a href="../Images/Event_Flyers/Archives/F22/Fall22_BBQ.png" target="_blank"><b>Our Third BBQ as  a Committee!</b></a> 
+
+- <a href="../Images/Event_Flyers/Archives/F22/f22_tea_updated.png" target="_blank"><b>Tea Time Continues (with a mid-quarter change to incorporate Seminar Snacks!)</b></a> 
+
+:::
+
 
 ::: {.callout-note appearance="default" collapse="true"}
 
